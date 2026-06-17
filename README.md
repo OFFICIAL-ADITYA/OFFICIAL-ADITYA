@@ -13,7 +13,11 @@
   <a href="https://www.linkedin.com/in/aditya-pal-b7876221b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://www.instagram.com/adityapal.123/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Connect-pink?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
+
 
 ---
 
