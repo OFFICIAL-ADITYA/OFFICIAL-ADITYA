@@ -1,17 +1,16 @@
-<h1 align="center">Hi, I'm Aditya Pal 👋</h1>
+<h1 align="center">Hi, I'm Aadarsh 👋</h1>
 
 <p align="center">
-  B.Tech CSE Student • MERN Stack Developer • Problem Solver
+B.Tech Student • PERN Stack Developer • Java • Frontend • AI/ML Explorer
 </p>
 
 <p align="center">
-  I enjoy turning ideas into functional web applications, solving real-world problems through code,
-  and continuously improving my development skills by building side projects.
+Building products and learning every day.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pal-b7876221b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/aadarsh2006ak">
+    <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&style=flat-square" alt="Profile Views"/>
   </a>
 </p>
 
@@ -19,144 +18,153 @@
 
 ## About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering**
-- 💻 Focused on **MERN Stack Development**
-- 🚀 Building projects that strengthen both frontend and backend skills
-- 🧩 Passionate about **problem solving** and learning by building
-- 🌱 Currently exploring better application architecture and scalable web development
-- ⚡ I believe the best way to learn is to ship projects
+I'm a **B.Tech student (graduating in 2026)** who enjoys building products that combine **clean UI, practical functionality, and thoughtful user experiences**.
+
+My current focus is creating full-stack applications with the **PERN stack**, strengthening my **Java fundamentals**, and exploring **AI / ML concepts** while continuing to improve through real projects.
+
+I enjoy:
+- Building polished interfaces
+- Solving problems through projects
+- Turning ideas into working products
+- Learning fast and improving continuously
 
 ---
 
 ## Tech Stack
 
-### Frontend
+<div align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+### Languages
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/Material_UI-111111?style=for-the-badge&logo=mui)
+![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css)
 
-### Backend
-
+### Backend & Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
 
-### Database
+### Exploring
+![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+</div>
 
 ---
 
 ## Featured Projects
 
-### 🛒 Full Stack E-Commerce Application
+<table>
+<tr>
+<td width="50%">
 
-A MERN Stack based e-commerce platform focused on modern web development practices.
+### AK Store — MERN Ecommerce
+A modern ecommerce application focused on usability, product flow, and full-stack functionality.
 
 **Highlights**
-- User authentication
-- Product management
-- Shopping cart functionality
 - Full-stack architecture
-- MongoDB integration
+- Responsive UI
+- Product management flow
 
-**Repository**
-- https://github.com/OFFICIAL-ADITYA/ApStore-mernstack-project
+→ Add Repository Link
 
----
+</td>
 
-### 🌦 Weather App
+<td width="50%">
 
-A React Single Page Application that provides weather information using external APIs.
-
-**Highlights**
-- Real-time weather data
-- Clean user interface
-- React component architecture
-- API integration
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio built to showcase projects, skills, and development journey.
+### Portfolio Website
+Personal developer portfolio built to showcase projects, skills, and design thinking.
 
 **Highlights**
+- Modern interface
 - Responsive design
-- Modern UI
-- React-based architecture
-- Project showcase sections
+- Personal branding
 
----
+→ Add Live URL
 
-## Current Focus
+</td>
+</tr>
 
-```text
-Building Full-Stack Applications
-████████████████████░░ 90%
+<tr>
+<td width="50%">
 
-React Ecosystem
-███████████████████░░░ 85%
+### Student Assignment Management System
+Role-based dashboard for Students, Teachers, and Admins.
 
-Backend Development
-█████████████████░░░░░ 80%
+**Highlights**
+- React architecture
+- Assignment tracking
+- Progress visualization
 
-Problem Solving
-██████████████████░░░░ 88%
-```
+</td>
+
+<td width="50%">
+
+### Utility Projects
+Weather App • Currency Converter
+
+Focused on:
+- API integration
+- Clean UI
+- Fast interactions
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OFFICIAL-ADITYA&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIAL-ADITYA&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OFFICIAL-ADITYA&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aadarsh2006ak&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Focus
+
+text
+→ Building stronger PERN projects
+→ Improving Java and problem solving
+→ Learning AI / ML concepts
+→ Designing cleaner user experiences
+`
+
+---
+
+## Connect
+
+<p align="left">
+
+LinkedIn → YOUR_LINKEDIN_URL
+
+Portfolio → YOUR_PORTFOLIO_URL
+
 </p>
 
 ---
 
-## GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OFFICIAL-ADITYA&theme=flat&no-frame=true&margin-w=10&row=1" />
-</p>
+Thanks for visiting.
 
----
+Keep building. Keep learning.
 
-## Developer Philosophy
-
-> Learn consistently.  
-> Build projects.  
-> Solve problems.  
-> Improve every day.
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pal-b7876221b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Pal-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile.
-  <br>
-  I'm always building, learning, and looking for the next challenge.
-</p>
+</div>
